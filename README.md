@@ -31,8 +31,6 @@ This will start the library management system and you will be able to use it.
 Contributing
 If you would like to contribute to the project, please fork the repository and submit a pull request.
 
-License
-The project is licensed under the MIT License.
 
 I hope this helps!
 
